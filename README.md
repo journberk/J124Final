@@ -23,7 +23,7 @@
 1. [2022 Law School Enrollment by Race & Ethnicity](Law_School_Enrollment_by_Race_&_Ethnicity_(2022).pdf)
 * This source is a journalistic piece from Enjuris that uses data to break down the statistics regarding "Racially-Ethnic Minority" students attending law school. It shows more insight into the specific ethnicities the students identify with where they are concentrated in the United States.
 
-2. [2022 Law School Enrollment by Race & Ethnicity](LGBTQ_Bar's_Law_School_Campus_Climate_Survey-2021_The_National_LGBTQ_Bar_Association)
+2. [2022 Law School Enrollment by Race & Ethnicity](LGBTQ_Bar's_Law_School_Campus_Climate_Survey-2021_The_National_LGBTQ_Bar_Association.html)
 
 ### Question 1 
 #### *What percentage of the 2022 incoming law school students are people of color?*
