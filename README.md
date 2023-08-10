@@ -16,6 +16,8 @@
 3. Click the cell with the formula and drag the formula down by clicking and holding the bottom right circle of the cell. Drag the formula until the last cell of data.
 ![dragging a formula on google sheets](dragforumla.png)
 
+###### The Answer: 
+
 ### Question 2
 #### *Which of the law schools had the highest percentage of incoming students of color in 2022?*
 
@@ -37,6 +39,8 @@ Your pivot table should then look like this:
 Your final pivot table will look like this:
  ![Sorting the pivot table](PivotTableSort.png)
 
+###### The Answer: 
+
 ### Question 3
 #### *What percentage of the 2022 incoming law school students are people of color?*
 
@@ -44,12 +48,14 @@ Your final pivot table will look like this:
 
 
 
-
+###### The Answer: 
 
 ### Question 4
 #### *What percentage of the 2022 incoming law school students are people of color?*
 
 ###### The Break Down:
+
+###### The Answer: 
 
 
 
