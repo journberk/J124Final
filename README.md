@@ -3,7 +3,9 @@
 ## Story Pitch 
 
   Diversity in law schools is a difficult thing to measure. Throughout this piece, we will undercover some statistics that allow us to put data on how "diverse" law schools truly are. Typical measures of diversity include the diversity and inclusion of all students. A large focus on this is minority students, such as those a part of the LQBT+ community and those students who identify as students of color.  
+  
   However, after analyzing the data, the winner for "most diverse school(s)" is extremely unclear. The schools with the largest percentage of students who are students of color are in Puerto Rico with 100% students of color. However, the territory of Puerto Rico consists of residents who many identify as students of color. Meaning that the 100% student of color population may very well be all Puerto Rican residents. We undercovered that the law school with the highest number of students of color, Harvard Law (245), is not in the running as a school with the highest female student population, which is Georgetown Law (331). So, the standards of "measurements" of diversity at pointing in many different directions. 
+  
   Are schools simply diverse in different ways? Do some schools focus their diversity on a specific identity within students? Does this data relate to an inclusive community at the law school? Is the data more reflective of the state's diverse population rather than the schools'? I would like to compare statistics across the board that we associate with "diversity" and combine that with the real law school experience to discover which/how law schools are diverse (if any are). 
 
 ## Data Utilized 
@@ -40,16 +42,18 @@
 * This survey created by the LGBTQ+ Bar Association is a surgery that is completed by over 110 law schools and their students. It describes in detailed questions how students in each law school identify, if any faculty belong to the community, and even more data, such as health care regarding the community.
 
 ### Question 1
-#### *Which law school has the largest number of students who have another gender identify?*
+#### *Which law school has the largest number of students who have another gender identity?*
 
 ###### The Break Down:
 
-1. Locate the column labeled - "Total FY Class Another Gender Identity."
-2. Click the first cell labeling this column. On the bottom right of the topmost cell, there will be an arrow pointing downward or an upside-down triangle. After clicking that button, select "sort sheet Z->A." This will arrange the values from highest to lowest.
+1. Locate "view" on your toolbar. Then click the "freeze" option and select "1 row". This will "freeze" your first row as labeling.
+2. Locate the column labeled - "Total FY Class Another Gender Identity."
+3. Click the first cell labeling this column. On the bottom right of the topmost cell, there will be an arrow pointing downward or an upside-down triangle. After clicking that button, select "sort sheet Z->A." This will arrange the values from highest to lowest.
 Your result should be this: 
 
+![GenderIdentity](GenderIdentity.png)
 
-###### The Answer:
+###### The Answer: CALIFORNIA-BERKELEY, UNIVERSITY OF (University of California Berkeley) with 10 students who have another gender identity. 
 
 ### Question 2
 #### *Which school had the highest number of students who did not report data and these students were not students of color?*
