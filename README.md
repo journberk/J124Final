@@ -3,7 +3,7 @@
 ## Data Analysis 
 
 #### Question 1 
-##### What percentage of the 2022 incoming law school students are people of color? 
+##### *What percentage of the 2022 incoming law school students are people of color?*
 
 ###### The Break Down: 
 
