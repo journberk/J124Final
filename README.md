@@ -9,7 +9,7 @@
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Phone:|202-662-1095
 |Email| carol.stevens@americanbar.org|
-|Why?| Director Stevens is the contact |
+|Why?| Director Stevens is the contact for Media and Journalism regarding all American Bar Association statistics. She can shed light on the willingness |
 
 
 | **Carol Stevens**                                      | **Director, Media Relations & Strategic Communications**                                                                                                                                                                                                                                                                                                                                                           |
@@ -21,6 +21,9 @@
 ## Additional Sources
 
 1. [2022 Law School Enrollment by Race & Ethnicity](Law_School_Enrollment_by_Race_&_Ethnicity_(2022).pdf)
+* This source is a journalistic piece from Enjuris that uses data to break down the statistics regarding "Racially-Ethnic Minority" students attending law school. It shows more insight into the specific ethnicities the students identify with where they are concentrated in the United States.
+
+2. 
 
 ### Question 1 
 #### *What percentage of the 2022 incoming law school students are people of color?*
