@@ -45,7 +45,9 @@ Diversity in law schools is a difficult thing to measure. Throughout this piece,
 1. Double-click the top of a column to add another column to the right labeled "Total Not Report (not POC nor Another Gender Identity)."
 2. Click the first cell and type in the formula =((Total FY Class Prefer Not to Report)-(People of Color FY Class Prefer Not to Report)). In my sheet, this would be "=I2-M2."
 3. Lastly, click the top of the newly created column. On the bottom right of the topmost cell, there will be an arrow pointing downward or an upside-down triangle. After clicking that button, select "sort sheet Z->A." This will arrange the values from highest to lowest.
-Resulting in the following: 
+Resulting in the following:
+
+![Total_Not_Report_nonPOC](Total_Not_Report_nonPOC.png)
 
 ###### The Answer: UNIVERSITY OF ILLINOIS CHICAGO SCHOOL OF LAW = 12 students
 
