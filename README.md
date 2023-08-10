@@ -1,7 +1,8 @@
-# J124Final
+# J124Final - Diversity in Law Schools
 
-## Data Analysis 
+## Story Pitch 
 
+Diversity in law schools is a difficult thing to measure. Throughout this piece, we will undercover some statistics that allow us to 
 
 ## Sources
 
