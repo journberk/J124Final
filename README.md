@@ -5,11 +5,20 @@
 
 ## Sources
 
-| **Name & Contact Information**                                      | **Why?**                                                                                                                                                                                                                                                                                                                                                           |
+| **Carol Stevens**                                      | **Director, Media Relations & Strategic Communications**                                                                                                                                                                                                                                                                                                                                                           |
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|UC Berkeley Office of Vice Provost for the Faculty | * Organized and manipulated data and information on spreadsheets on Microsoft Excel and Google Suite applications. * Communicate office updates between faculty through emailing and postings; trusted with classified information. * Updated website information and managed the Drupal website platform; conducted web research; scanned files.|
-|World Legal Issues Eduexplora                      | * Taught first-year law school material to a class of 30+ students; mentored and guided students through a mock trial. * Communicated in Spanish, Portuguese, and English, to approach the material with an international perspective. * Collaborated with the professor to best assist class; communicated about student progress and instruction.|
-|Berkeley Economic Review                           | * Research and edited articles to be published as qualitative articles as part of the Berkeley Economic Review Journal. * Discussed and researched economic trends and current events at weekly meetings; attended presentations on economics. * Collaborated with organization writers to maintain the style, check grammatical errors, and confirm statistics/graphics used.|
+|Phone:|202-662-1095
+|Email| carol.stevens@americanbar.org|
+|Why?| Director Stevens is the contact |
+
+
+| **Carol Stevens**                                      | **Director, Media Relations & Strategic Communications**                                                                                                                                                                                                                                                                                                                                                           |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Phone:|202-662-1095
+|Email| carol.stevens@americanbar.org|
+|Why?| Director Stevens is the contact |
+
+
 
 ### Question 1 
 #### *What percentage of the 2022 incoming law school students are people of color?*
