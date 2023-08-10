@@ -1,6 +1,7 @@
 # J124Final 
 
 # Diversity in Law Schools
+### By: Lara Ramirez
 ## Story Pitch 
 
   Diversity in law schools is a difficult thing to measure. Throughout this piece, we will undercover some statistics that allow us to put data on how "diverse" law schools truly are. Typical measures of diversity include the diversity and inclusion of all students. A large focus on this is minority students, such as those a part of the LQBT+ community and those students who identify as students of color.  
