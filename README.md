@@ -1,5 +1,6 @@
-# J124Final - Diversity in Law Schools
+# J124Final 
 
+# Diversity in Law Schools
 ## Story Pitch 
 
   Diversity in law schools is a difficult thing to measure. Throughout this piece, we will undercover some statistics that allow us to put data on how "diverse" law schools truly are. Typical measures of diversity include the diversity and inclusion of all students. A large focus on this is minority students, such as those a part of the LQBT+ community and those students who identify as students of color.  
@@ -40,6 +41,8 @@
 
 2. [LGBTQ Bar's Law School Campus Climate Survey-2021 The National LGBTQ Bar Association](https://lgbtqbar.org/climate-survey/climate-survey-2021/)
 * This survey created by the LGBTQ+ Bar Association is a surgery that is completed by over 110 law schools and their students. It describes in detailed questions how students in each law school identify, if any faculty belong to the community, and even more data, such as health care regarding the community.
+
+## Data Analysis
 
 ### Question 1
 #### *Which law school has the largest number of students who have another gender identity?*
