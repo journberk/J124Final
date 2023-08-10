@@ -10,7 +10,7 @@ Diversity in law schools is a difficult thing to measure. Throughout this piece,
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Phone:|202-662-1095
 |Email| carol.stevens@americanbar.org|
-|Why?| Director Stevens is the contact for Media and Journalism regarding all American Bar Association statistics. She can shed light on the willingness |
+|Why?| Director Stevens is the contact for Media and Journalism regarding all American Bar Association statistics. She can shed light on the changes that may occur in the statistics over the years, students' willingness to participate and answer honestly, and any trends that can be observed from her position. |
 
 
 | **Billy Curtis**                                      | **Director, Gender Equity Resource Center, Berkeley Law**                                                                                                                                                                                                                                                                                                                                                           |
@@ -41,7 +41,7 @@ Diversity in law schools is a difficult thing to measure. Throughout this piece,
 3. Click the cell with the formula and drag the formula down by clicking and holding the bottom right circle of the cell. Drag the formula until the last cell of data.
 ![dragging a formula on google sheets](dragforumla.png)
 
-###### The Answer: 
+###### The Answer: Column D now has all the percentages of incoming law school students who identify as people of color.
 
 ### Question 2
 #### *Which of the law schools had the highest percentage of incoming students of color in 2022?*
