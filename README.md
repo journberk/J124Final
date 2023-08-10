@@ -14,5 +14,5 @@
 ![adding a formula on google sheets](formula.png)
 
 3. Click the cell with the formula and drag the formula down by clicking and holding the bottom right circle of the cell. Drag the formula until the last cell of data.
-![dragging a formula on google sheets](dragformula.png)
+![dragging a formula on google sheets](dragforumla.png)
 
