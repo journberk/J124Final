@@ -88,7 +88,7 @@ Your pivot table should then look like this:
 Your final pivot table will look like this:
  ![Sorting the pivot table](PivotTableSort.png)
 
-###### The Answer: 
+###### The Answer: INTER AMERICAN UNIVERSITY OF PUERTO RICO & PONTIFICAL CATHOLIC UNIVERSITY OF P.R. at 100% students of color. 
 
 
 
