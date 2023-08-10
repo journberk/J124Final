@@ -18,7 +18,9 @@
 |Email| carol.stevens@americanbar.org|
 |Why?| Director Stevens is the contact |
 
+## Additional Sources
 
+1. [2022 Law School Enrollment by Race & Ethnicity](Law_School_Enrollment_by_Race_&_Ethnicity_(2022).pdf)
 
 ### Question 1 
 #### *What percentage of the 2022 incoming law school students are people of color?*
