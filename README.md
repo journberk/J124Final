@@ -90,18 +90,24 @@ Your final pivot table will look like this:
 
 ###### The Answer: INTER AMERICAN UNIVERSITY OF PUERTO RICO & PONTIFICAL CATHOLIC UNIVERSITY OF P.R. at 100% students of color. 
 
-
-
-
-
-
 ### Question 4
-#### *What percentage of the 2022 incoming law school students are people of color?*
+#### *Does the school with the highest number of incoming students who are students of color also have the highest number of women at their law school?*
 
 ###### The Break Down:
 
-###### The Answer: 
 
+1. As done in Question 3 we are going to create a pivot table. In the toolbar at the top of the sheet, click "insert" and then select the "pivot table" option from those displayed.  
+
+2. When prompted to create a pivot table, you must "input the data range." Fill out the data range as follows: '{insert sheet name}'!{insert first cell of data}:{insert last cell of data}.
+In our case, it should look like the following: 
+![Pivot table range](PivotTableRange.png)
+
+3. Before clicking the button "create" to create the pivot table, make sure to create it on a "new sheet." That sheet will then open with the pivot table. You must add qualifiers under the "pivot table editor" to add data to your pivot table. Under "Rows," add "School list" and under "Values" add "SUM of People of Color FY Class Total" and "SUM of Total FY Class Women."
+
+4. Lastly, double-click the top left corner right where the "1" row title and "A" column title meet. Then select "create filter" of the options presented. Then click the funnel or upside-down triangle on the right bottom corner of the title cell "SUM of People of Color FY Class Total." You must then click the Z->A option, as it will present the values in order of greatest to least for students of color.
+It should look like the following: 
+
+###### The Answer: No, HARVARD UNIVERSITY has the greatest number of students who identify as people of color with 245 students of color. However, the Law school with the highest female student population is GEORGETOWN UNIVERSITY with 331 female students. 
 
 
 ### Question 5
