@@ -12,6 +12,7 @@ Diversity in law schools is a difficult thing to measure. Throughout this piece,
 
 ![2022_Incoming_Students_Data](2022_Incoming_Students_Data.png)
 
+[Data on 2022 Fall Class Incoming Students]([2022-fall-fyclass-enrollment-gender-minority.xlsx](https://datawrapper.dwcdn.net/e5kKG/1/))
 
 ## Sources
 
