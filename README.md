@@ -105,7 +105,9 @@ In our case, it should look like the following:
 3. Before clicking the button "create" to create the pivot table, make sure to create it on a "new sheet." That sheet will then open with the pivot table. You must add qualifiers under the "pivot table editor" to add data to your pivot table. Under "Rows," add "School list" and under "Values" add "SUM of People of Color FY Class Total" and "SUM of Total FY Class Women."
 
 4. Lastly, double-click the top left corner right where the "1" row title and "A" column title meet. Then select "create filter" of the options presented. Then click the funnel or upside-down triangle on the right bottom corner of the title cell "SUM of People of Color FY Class Total." You must then click the Z->A option, as it will present the values in order of greatest to least for students of color.
-It should look like the following: 
+It should look like the following:
+
+![2nd Pivot table](2ndPivot.png)
 
 ###### The Answer: No, HARVARD UNIVERSITY has the greatest number of students who identify as people of color with 245 students of color. However, the Law school with the highest female student population is GEORGETOWN UNIVERSITY with 331 female students. 
 
