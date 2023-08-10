@@ -27,7 +27,19 @@ Diversity in law schools is a difficult thing to measure. Throughout this piece,
 2. [LGBTQ Bar's Law School Campus Climate Survey-2021 The National LGBTQ Bar Association](https://lgbtqbar.org/climate-survey/climate-survey-2021/)
 * This survey created by the LGBTQ+ Bar Association is a surgery that is completed by over 110 law schools and their students. It describes in detailed questions how students in each law school identify, if any faculty belong to the community, and even more data, such as health care regarding the community.
 
-### Question 1 
+### Question 1
+#### *Which school had the highest number of students who did not report data and these students were not students of color?*
+
+###### The Break Down:
+
+1. Double-click the top of a column to add another column to the right labeled "Total Not Report (not POC nor Another Gender Identity)."
+2. Click the first cell and type in the formula =((Total FY Class Prefer Not to Report)-(People of Color FY Class Prefer Not to Report)). In my sheet, this would be "=I2-M2."
+3. Lastly, click the top of the newly created column. On the bottom right of the topmost cell, there will be an arrow pointing downward or an upside-down triangle. After clicking that button, select "sort sheet Z->A." This will arrange the values from highest to lowest.
+Resulting in the following: 
+
+###### The Answer: UNIVERSITY OF ILLINOIS CHICAGO SCHOOL OF LAW = 12 students
+
+### Question 2 
 #### *What percentage of the 2022 incoming law school students are people of color?*
 
 ###### The Break Down: 
@@ -43,7 +55,7 @@ Diversity in law schools is a difficult thing to measure. Throughout this piece,
 
 ###### The Answer: Column D now has all the percentages of incoming law school students who identify as people of color.
 
-### Question 2
+### Question 3
 #### *Which of the law schools had the highest percentage of incoming students of color in 2022?*
 
 ###### The Break Down:
@@ -66,14 +78,10 @@ Your final pivot table will look like this:
 
 ###### The Answer: 
 
-### Question 3
-#### *What percentage of the 2022 incoming law school students are people of color?*
-
-###### The Break Down:
 
 
 
-###### The Answer: 
+
 
 ### Question 4
 #### *What percentage of the 2022 incoming law school students are people of color?*
