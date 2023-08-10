@@ -9,7 +9,7 @@ Diversity in law schools is a difficult thing to measure. Throughout this piece,
 ![2022_Incoming_Students_Data](2022_Incoming_Students_Data.png)
 
 
-[2022 Imcoing Students Data](https://datawrapper.dwcdn.net/e5kKG/1/)
+[2022 Incoming Students Data](https://datawrapper.dwcdn.net/e5kKG/1/)
 
 ## Sources
 
