@@ -12,11 +12,11 @@
 |Why?| Director Stevens is the contact for Media and Journalism regarding all American Bar Association statistics. She can shed light on the willingness |
 
 
-| **Carol Stevens**                                      | **Director, Media Relations & Strategic Communications**                                                                                                                                                                                                                                                                                                                                                           |
+| **Billy Curtis**                                      | **Director, Gender Equity Resource Center, Berkeley Law**                                                                                                                                                                                                                                                                                                                                                           |
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Phone:|202-662-1095
-|Email| carol.stevens@americanbar.org|
-|Why?| Director Stevens is the contact |
+|Phone:|510-643-0788 
+|Email| billyc@berkeley.edu|
+|Why?| As director of the Gender Equity Resource Center, Mr. Curtis can provide insight into the reality of attending Berkeley Law as a part of the LGBT+ community. Interacting with a range of law students and providing their gender identity resources, he can provide a comparison of what some law schools may offer to the community versus others. |
 
 ## Additional Sources
 
@@ -24,7 +24,7 @@
 * This source is a journalistic piece from Enjuris that uses data to break down the statistics regarding "Racially-Ethnic Minority" students attending law school. It shows more insight into the specific ethnicities the students identify with where they are concentrated in the United States.
 
 2. [LGBTQ Bar's Law School Campus Climate Survey-2021 The National LGBTQ Bar Association](https://lgbtqbar.org/climate-survey/climate-survey-2021/)
-* This surgery created by the LGBTQ+ Bar Association is a surgery that is completed by over 110 law schools and their students. It describes in detailed questions how students in each law school identify, if any faculty belong to the community, and even more data, such as health care regarding the community.
+* This survey created by the LGBTQ+ Bar Association is a surgery that is completed by over 110 law schools and their students. It describes in detailed questions how students in each law school identify, if any faculty belong to the community, and even more data, such as health care regarding the community.
 
 ### Question 1 
 #### *What percentage of the 2022 incoming law school students are people of color?*
