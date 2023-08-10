@@ -22,10 +22,10 @@
 1. Using the data gathered from question 1, we are going to create a pivot table.
 2. In the tool bar at the
 
-3. ![Pivot table location in google sheets](dragforumla.png)
-4. ![Pivot table range](dragforumla.png)
-5. ![Pivot table after filters](dragforumla.png)
-6. ![Sorting the pivot table](dragforumla.png)
+3. ![Pivot table location in google sheets](PivotTableLocation.png)
+4. ![Pivot table range](PivotTableRange.png)
+5. ![Pivot table after filters](PivotTable.png)
+6. ![Sorting the pivot table](PivotTableSort.png)
 
 
 
