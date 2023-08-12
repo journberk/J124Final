@@ -35,6 +35,12 @@
 |Email| billyc@berkeley.edu|
 |Why?| As director of the Gender Equity Resource Center, Mr. Curtis can provide insight into the reality of attending Berkeley Law as a part of the LGBT+ community. Interacting with a range of law students and providing their gender identity resources, he can provide a comparison of what some law schools may offer to the community versus others. |
 
+| **Millicent Morris-Chaney**                                      | **Campus Advisor of the Muslim Students Organization, at Berkeley Law**                                                                                                                                                                                                                                                                                                                                                           |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Email|millicen@berkeley.edu
+|Organization Email|board@msa.berkeley.edu|
+|Why?| She will be able to provide an insight into inclusivity at UC Berkeley Law, in regard to those who are a part of the Muslim community. Thus, adding to wether the statistics align with which schools are/how are they "diverse."|
+
 ## Additional Sources
 
 1. [2022 Law School Enrollment by Race & Ethnicity](Law_School_Enrollment_by_Race_&_Ethnicity_(2022).pdf)
